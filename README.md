@@ -17,6 +17,11 @@ The Task:
 		It has it's own identification, but it must include the identifiers of users and products.
 
 
+Used languages:
+---------------
+- SQL
+
+
 Features:
 ---------
 - Stored Procedures
